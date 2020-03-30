@@ -17,7 +17,7 @@
 
 
 
-In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/)
+In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I tried to make a website like Google on picture side. When you enter desired search term in the text field and press Enter, pictures related to search term will come from https://unsplash.com/ via API. 
 
 
 
