@@ -37,13 +37,13 @@ In this project, I worked on my season website using react. For the design I hav
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/Yunusyerli1/seasons.git
+$ git clone https://github.com/Yunusyerli1/pics-app.git
 ```
 
 > cd into the directory, install dependencies, build and start
 
 ```sh
-$ cd seasons
+$ cd pics
 $ npm run start
 ```
 
@@ -58,9 +58,9 @@ $ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/seasons/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/pics-app/issues).
 
-1. Fork it (https://github.com/Yunusyerli1/seasons.git/fork)
+1. Fork it (https://github.com/Yunusyerli1/pics-app.git/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
